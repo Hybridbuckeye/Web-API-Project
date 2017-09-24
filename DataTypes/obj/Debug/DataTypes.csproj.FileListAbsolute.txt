@@ -1,0 +1,5 @@
+C:\Projects\WebAPI\DataTypes\bin\Debug\DataTypes.dll
+C:\Projects\WebAPI\DataTypes\bin\Debug\DataTypes.pdb
+C:\Projects\WebAPI\DataTypes\obj\Debug\DataTypes.csprojResolveAssemblyReference.cache
+C:\Projects\WebAPI\DataTypes\obj\Debug\DataTypes.dll
+C:\Projects\WebAPI\DataTypes\obj\Debug\DataTypes.pdb

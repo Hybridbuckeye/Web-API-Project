@@ -1,0 +1,7 @@
+C:\Projects\WebAPI\ServiceContracts\bin\Debug\ServiceContracts.dll
+C:\Projects\WebAPI\ServiceContracts\bin\Debug\ServiceContracts.pdb
+C:\Projects\WebAPI\ServiceContracts\bin\Debug\DataTypes.dll
+C:\Projects\WebAPI\ServiceContracts\bin\Debug\DataTypes.pdb
+C:\Projects\WebAPI\ServiceContracts\obj\Debug\ServiceContracts.csprojResolveAssemblyReference.cache
+C:\Projects\WebAPI\ServiceContracts\obj\Debug\ServiceContracts.dll
+C:\Projects\WebAPI\ServiceContracts\obj\Debug\ServiceContracts.pdb

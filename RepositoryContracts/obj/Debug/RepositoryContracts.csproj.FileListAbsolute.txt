@@ -1,0 +1,7 @@
+C:\Projects\WebAPI\RepositoryContracts\bin\Debug\RepositoryContracts.dll
+C:\Projects\WebAPI\RepositoryContracts\bin\Debug\RepositoryContracts.pdb
+C:\Projects\WebAPI\RepositoryContracts\bin\Debug\Domain.dll
+C:\Projects\WebAPI\RepositoryContracts\bin\Debug\Domain.pdb
+C:\Projects\WebAPI\RepositoryContracts\obj\Debug\RepositoryContracts.csprojResolveAssemblyReference.cache
+C:\Projects\WebAPI\RepositoryContracts\obj\Debug\RepositoryContracts.dll
+C:\Projects\WebAPI\RepositoryContracts\obj\Debug\RepositoryContracts.pdb
